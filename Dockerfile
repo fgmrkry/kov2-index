@@ -1,1 +1,1 @@
-FROM xyouxiu6/koyebvxrayv2:zhuye
+FROM xyouxiu6/koyebvxrayv2:zhuyev1
