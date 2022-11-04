@@ -1,1 +1,1 @@
-FROM xyouxiu6/koyebvxrayv2:sindex
+FROM xyouxiu6/koyebvxrayv2:index
